@@ -1,5 +1,5 @@
 # customer-orders-api
-This API connects to the sqlite database provided in the tech test brief.
+This API connects to the sqlite database provided in the brief.
 The API runs on local host, the port and https address are displayed in the terminal when you run the API.
 
 ### SETUP
